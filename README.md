@@ -1,2 +1,2 @@
 # banco-digital-java
- Banco de dados feito em java para treinar OOP
+ Banco virtual feito em java para exercitar conceitos de OOP,
